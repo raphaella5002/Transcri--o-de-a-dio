@@ -1,0 +1,6 @@
+A tecnologia de transcrição de áudio facilita a criação de documentos a partir de reuniões importantes.
+Este projeto explora como a inteligência artificial transforma gravações em textos pesquisáveis.
+Sistemas como o Azure Speech Studio oferecem suporte a múltiplos idiomas na transcrição de fala.
+A transcrição automática é essencial para melhorar a acessibilidade e a inclusão digital.
+Modelos de IA ajudam a compreender diferentes sotaques e entonações com alta precisão.
+A integração de serviços de fala com plataformas online pode acelerar processos corporativos.
